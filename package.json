@@ -1,0 +1,10 @@
+{
+  "name": "@ogu/todo-factory",
+  "packageManager": "yarn@3.2.1",
+  "devDependencies": {
+    "lerna": "^5.1.4"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
+}

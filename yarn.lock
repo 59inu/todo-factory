@@ -1547,9 +1547,9 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@ogu/react-with-context-api@workspace:packages/vite-project":
+"@ogu/react-with-context-api@workspace:packages/react-with-context-api":
   version: 0.0.0-use.local
-  resolution: "@ogu/react-with-context-api@workspace:packages/vite-project"
+  resolution: "@ogu/react-with-context-api@workspace:packages/react-with-context-api"
   dependencies:
     "@ogu/commmon": "workspace:^"
     "@types/react": ^18.0.0

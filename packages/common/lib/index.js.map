@@ -1,1 +1,0 @@
-{"version":3,"sources":["../src/AddBtn.tsx"],"sourcesContent":["import React, { ButtonHTMLAttributes, FC } from \"react\";\n\nexport const AddBtn: FC<ButtonHTMLAttributes<HTMLButtonElement>> = (props) => {\n  return <button {...props}>추가</button>;\n};\n"],"mappings":"aAAA,qBAEO,GAAM,GAAsD,AAAC,GAC3D,gBAAC,UAAQ,GAAG,GAAO,cAAE","names":[]}

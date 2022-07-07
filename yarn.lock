@@ -1534,9 +1534,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@ogu/commmon@workspace:^, @ogu/commmon@workspace:packages/common":
+"@ogu/react-common-jsx@workspace:^, @ogu/react-common-jsx@workspace:packages/react-common-jsx":
   version: 0.0.0-use.local
-  resolution: "@ogu/commmon@workspace:packages/common"
+  resolution: "@ogu/react-common-jsx@workspace:packages/react-common-jsx"
   dependencies:
     "@types/react": ^18.0.14
     "@types/react-dom": ^18.0.5
@@ -1547,11 +1547,11 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@ogu/react-with-context-api@workspace:packages/vite-project":
+"@ogu/react-with-context-api@workspace:packages/react-with-context-api":
   version: 0.0.0-use.local
-  resolution: "@ogu/react-with-context-api@workspace:packages/vite-project"
+  resolution: "@ogu/react-with-context-api@workspace:packages/react-with-context-api"
   dependencies:
-    "@ogu/commmon": "workspace:^"
+    "@ogu/react-common-jsx": "workspace:^"
     "@types/react": ^18.0.0
     "@types/react-dom": ^18.0.0
     "@vitejs/plugin-react": ^1.3.0

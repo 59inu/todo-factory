@@ -1,5 +1,5 @@
 {
-  "name": "@ogu/commmon",
+  "name": "@ogu/react-common-jsx",
   "version": "1.0.0",
   "type": "module",
   "main": "lib/index.js",

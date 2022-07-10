@@ -1,7 +1,7 @@
 # todo-factory
 
 ### Framework
-[ ] [React](https://ko.reactjs.org/docs/getting-started.html)
+[x] [React](https://ko.reactjs.org/docs/getting-started.html)
 
 [ ] [React / Next.js](https://nextjs.org/)
 
@@ -28,7 +28,7 @@
 
 ### State management (with react)
 
-[ ] [React Hooks : useContext, useReducer](https://ko.reactjs.org/docs/hooks-reference.html)
+[x] [React Hooks : useContext, useReducer](https://ko.reactjs.org/docs/hooks-reference.html)
 
 [ ] [Redux](https://ko.redux.js.org/)
 

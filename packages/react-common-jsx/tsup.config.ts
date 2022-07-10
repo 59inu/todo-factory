@@ -8,5 +8,5 @@ export default defineConfig({
   dts: true,
   minify: true,
   metafile: true,
-  entry: ["./src/index.tsx"],
+  entry: ["./src/index.tsx", "./src/index.css"],
 });
